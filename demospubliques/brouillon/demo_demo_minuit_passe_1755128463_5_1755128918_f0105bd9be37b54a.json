@@ -1,0 +1,160 @@
+{
+    "id": "1755128463_578ca813dd57324c",
+    "filename": "demo_minuit_passe_1755128463_578ca813dd57324c.json",
+    "originalName": "demo_minuit_passe_1755128463_578ca813dd57324c.json",
+    "created": "2025-08-13T23:41:03+00:00",
+    "status": "a_classer",
+    "data": {
+        "name": "demo_minuit_passe_1755128463_578ca813dd57324c.json",
+        "category": "brouillon",
+        "description": "Enregistrement direct depuis le piano",
+        "recording": {
+            "notes": [
+                {
+                    "note": "G3",
+                    "time": 1012,
+                    "type": "on",
+                    "velocity": 80
+                },
+                {
+                    "note": "G3",
+                    "time": 1156,
+                    "type": "off",
+                    "velocity": 0
+                },
+                {
+                    "note": "A#3",
+                    "time": 1369,
+                    "type": "on",
+                    "velocity": 80
+                },
+                {
+                    "note": "A#3",
+                    "time": 1412,
+                    "type": "off",
+                    "velocity": 0
+                },
+                {
+                    "note": "A#3",
+                    "time": 1542,
+                    "type": "on",
+                    "velocity": 80
+                },
+                {
+                    "note": "A#3",
+                    "time": 1673,
+                    "type": "off",
+                    "velocity": 0
+                },
+                {
+                    "note": "D4",
+                    "time": 1765,
+                    "type": "on",
+                    "velocity": 80
+                },
+                {
+                    "note": "D4",
+                    "time": 1893,
+                    "type": "off",
+                    "velocity": 0
+                },
+                {
+                    "note": "A#3",
+                    "time": 1918,
+                    "type": "on",
+                    "velocity": 80
+                },
+                {
+                    "note": "A#3",
+                    "time": 2004,
+                    "type": "off",
+                    "velocity": 0
+                },
+                {
+                    "note": "G3",
+                    "time": 2146,
+                    "type": "on",
+                    "velocity": 80
+                },
+                {
+                    "note": "G3",
+                    "time": 2251,
+                    "type": "off",
+                    "velocity": 0
+                },
+                {
+                    "note": "A#3",
+                    "time": 2348,
+                    "type": "on",
+                    "velocity": 80
+                },
+                {
+                    "note": "A#3",
+                    "time": 2455,
+                    "type": "off",
+                    "velocity": 0
+                },
+                {
+                    "note": "D4",
+                    "time": 2510,
+                    "type": "on",
+                    "velocity": 80
+                },
+                {
+                    "note": "D4",
+                    "time": 2622,
+                    "type": "off",
+                    "velocity": 0
+                },
+                {
+                    "note": "A#3",
+                    "time": 2721,
+                    "type": "on",
+                    "velocity": 80
+                },
+                {
+                    "note": "A#3",
+                    "time": 2848,
+                    "type": "off",
+                    "velocity": 0
+                },
+                {
+                    "note": "G3",
+                    "time": 2882,
+                    "type": "on",
+                    "velocity": 80
+                },
+                {
+                    "note": "G3",
+                    "time": 3005,
+                    "type": "off",
+                    "velocity": 0
+                }
+            ],
+            "durations": [
+                1012,
+                1156,
+                1369,
+                1412,
+                1542,
+                1673,
+                1765,
+                1893,
+                1918,
+                2004,
+                2146,
+                2251,
+                2348,
+                2455,
+                2510,
+                2622,
+                2721,
+                2848,
+                2882,
+                3005
+            ],
+            "timestamp": 1755128463629
+        },
+        "uploadedAt": "2025-08-13T23:41:03.629Z"
+    }
+}

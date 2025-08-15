@@ -1,0 +1,236 @@
+{
+    "category": "brouillon",
+    "description": "Zone de staging pour les démos avant validation",
+    "created": "2025-08-12T15:48:00Z",
+    "demos": [
+        {
+            "id": "1755128918_686ebad71555523a",
+            "filename": "demo_demo_minuit_passe_1755128463_5_1755128918_f0105bd9be37b54a.json",
+            "originalName": "demo_minuit_passe_1755128463_578ca813dd57324c.json",
+            "created": "2025-08-13T23:48:38+00:00",
+            "status": "a_classer"
+        },
+        {
+            "id": "1755164462_5267806be685aa9b",
+            "filename": "demo_popo_1755164462_5267806be685aa9b.json",
+            "originalName": "popo",
+            "created": "2025-08-14T09:41:02+00:00",
+            "status": "a_classer",
+            "data": {
+                "name": "popo",
+                "category": "brouillon",
+                "description": "Enregistrement direct depuis le piano",
+                "recording": {
+                    "notes": [
+                        {
+                            "note": "C4",
+                            "time": 642,
+                            "type": "on",
+                            "velocity": 80
+                        },
+                        {
+                            "note": "C4",
+                            "time": 728,
+                            "type": "off",
+                            "velocity": 0
+                        },
+                        {
+                            "note": "C4",
+                            "time": 1082,
+                            "type": "on",
+                            "velocity": 80
+                        },
+                        {
+                            "note": "C4",
+                            "time": 1175,
+                            "type": "off",
+                            "velocity": 0
+                        },
+                        {
+                            "note": "C4",
+                            "time": 1216,
+                            "type": "off",
+                            "velocity": 0
+                        },
+                        {
+                            "note": "C#4",
+                            "time": 1249,
+                            "type": "off",
+                            "velocity": 0
+                        },
+                        {
+                            "note": "D4",
+                            "time": 1458,
+                            "type": "on",
+                            "velocity": 80
+                        },
+                        {
+                            "note": "D4",
+                            "time": 1544,
+                            "type": "off",
+                            "velocity": 0
+                        },
+                        {
+                            "note": "D4",
+                            "time": 1632,
+                            "type": "off",
+                            "velocity": 0
+                        },
+                        {
+                            "note": "C#4",
+                            "time": 1817,
+                            "type": "on",
+                            "velocity": 80
+                        },
+                        {
+                            "note": "C#4",
+                            "time": 1911,
+                            "type": "off",
+                            "velocity": 0
+                        },
+                        {
+                            "note": "C#4",
+                            "time": 2065,
+                            "type": "off",
+                            "velocity": 0
+                        },
+                        {
+                            "note": "C4",
+                            "time": 2217,
+                            "type": "on",
+                            "velocity": 80
+                        },
+                        {
+                            "note": "C4",
+                            "time": 2320,
+                            "type": "off",
+                            "velocity": 0
+                        },
+                        {
+                            "note": "C4",
+                            "time": 2632,
+                            "type": "off",
+                            "velocity": 0
+                        }
+                    ],
+                    "durations": [
+                        642,
+                        728,
+                        1082,
+                        1175,
+                        1216,
+                        1249,
+                        1458,
+                        1544,
+                        1632,
+                        1817,
+                        1911,
+                        2065,
+                        2217,
+                        2320,
+                        2632
+                    ],
+                    "timestamp": 1755164462989
+                },
+                "uploadedAt": "2025-08-14T09:41:02.989Z"
+            }
+        },
+        {
+            "id": "1755168312_f993d265858e3997",
+            "filename": "demo_intro_01_1755168312_f993d265858e3997.json",
+            "originalName": "intro 01",
+            "created": "2025-08-14T10:45:12+00:00",
+            "status": "a_classer",
+            "data": {
+                "name": "intro 01",
+                "category": "brouillon",
+                "description": "Enregistrement direct depuis le piano",
+                "recording": {
+                    "notes": [
+                        {
+                            "note": "C3",
+                            "time": 1860,
+                            "type": "on",
+                            "velocity": 80
+                        },
+                        {
+                            "note": "C#3",
+                            "time": 3162,
+                            "type": "on",
+                            "velocity": 80
+                        },
+                        {
+                            "note": "C3",
+                            "time": 3274,
+                            "type": "off",
+                            "velocity": 0
+                        },
+                        {
+                            "note": "E3",
+                            "time": 4377,
+                            "type": "on",
+                            "velocity": 80
+                        },
+                        {
+                            "note": "F3",
+                            "time": 4391,
+                            "type": "on",
+                            "velocity": 80
+                        },
+                        {
+                            "note": "C#3",
+                            "time": 4425,
+                            "type": "off",
+                            "velocity": 0
+                        },
+                        {
+                            "note": "F3",
+                            "time": 4503,
+                            "type": "off",
+                            "velocity": 0
+                        },
+                        {
+                            "note": "C3",
+                            "time": 5922,
+                            "type": "on",
+                            "velocity": 80
+                        },
+                        {
+                            "note": "E3",
+                            "time": 6191,
+                            "type": "off",
+                            "velocity": 0
+                        },
+                        {
+                            "note": "C3",
+                            "time": 7399,
+                            "type": "off",
+                            "velocity": 0
+                        },
+                        {
+                            "note": "D4",
+                            "time": 7971,
+                            "type": "off",
+                            "velocity": 0
+                        }
+                    ],
+                    "durations": [
+                        1860,
+                        3162,
+                        3274,
+                        4377,
+                        4391,
+                        4425,
+                        4503,
+                        5922,
+                        6191,
+                        7399,
+                        7971
+                    ],
+                    "timestamp": 1755168312144
+                },
+                "uploadedAt": "2025-08-14T10:45:12.144Z"
+            }
+        }
+    ]
+}

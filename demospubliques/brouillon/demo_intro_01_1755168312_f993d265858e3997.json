@@ -1,0 +1,97 @@
+{
+    "id": "1755168312_f993d265858e3997",
+    "filename": "demo_intro_01_1755168312_f993d265858e3997.json",
+    "originalName": "intro 01",
+    "created": "2025-08-14T10:45:12+00:00",
+    "status": "a_classer",
+    "data": {
+        "name": "intro 01",
+        "category": "brouillon",
+        "description": "Enregistrement direct depuis le piano",
+        "recording": {
+            "notes": [
+                {
+                    "note": "C3",
+                    "time": 1860,
+                    "type": "on",
+                    "velocity": 80
+                },
+                {
+                    "note": "C#3",
+                    "time": 3162,
+                    "type": "on",
+                    "velocity": 80
+                },
+                {
+                    "note": "C3",
+                    "time": 3274,
+                    "type": "off",
+                    "velocity": 0
+                },
+                {
+                    "note": "E3",
+                    "time": 4377,
+                    "type": "on",
+                    "velocity": 80
+                },
+                {
+                    "note": "F3",
+                    "time": 4391,
+                    "type": "on",
+                    "velocity": 80
+                },
+                {
+                    "note": "C#3",
+                    "time": 4425,
+                    "type": "off",
+                    "velocity": 0
+                },
+                {
+                    "note": "F3",
+                    "time": 4503,
+                    "type": "off",
+                    "velocity": 0
+                },
+                {
+                    "note": "C3",
+                    "time": 5922,
+                    "type": "on",
+                    "velocity": 80
+                },
+                {
+                    "note": "E3",
+                    "time": 6191,
+                    "type": "off",
+                    "velocity": 0
+                },
+                {
+                    "note": "C3",
+                    "time": 7399,
+                    "type": "off",
+                    "velocity": 0
+                },
+                {
+                    "note": "D4",
+                    "time": 7971,
+                    "type": "off",
+                    "velocity": 0
+                }
+            ],
+            "durations": [
+                1860,
+                3162,
+                3274,
+                4377,
+                4391,
+                4425,
+                4503,
+                5922,
+                6191,
+                7399,
+                7971
+            ],
+            "timestamp": 1755168312144
+        },
+        "uploadedAt": "2025-08-14T10:45:12.144Z"
+    }
+}
